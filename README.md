@@ -1,6 +1,6 @@
 # project-3-country-gdp-analysis
 
-country gdp analysis
+country gdp analysis.
 
 I have complete basic of pandas ever imported a dataset into 
 Pandas only to find it has inconvenient column names
